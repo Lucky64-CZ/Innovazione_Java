@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codiceFiscaleDaniele/codiceFiscaleDaniele.iml" filepath="$PROJECT_DIR$/codiceFiscaleDaniele/codiceFiscaleDaniele.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codiceFiscalePlacida/codiceFiscalePlacida.iml" filepath="$PROJECT_DIR$/codiceFiscalePlacida/codiceFiscalePlacida.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codiceFiscaleSimmaco/codiceFiscaleSimmaco.iml" filepath="$PROJECT_DIR$/codiceFiscaleSimmaco/codiceFiscaleSimmaco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codiceFiscaleZullo/codiceFiscaleZullo.iml" filepath="$PROJECT_DIR$/codiceFiscaleZullo/codiceFiscaleZullo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repoGiovanni/repoGiovanni.iml" filepath="$PROJECT_DIR$/repoGiovanni/repoGiovanni.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,5 +1,6 @@
 package esercizi;
-
+//prova aggiunta commento
+//prova aggiunta commento 2
 public class NomeCognome {
 
     public static String vocaliStringa(String cognomeVocali) {
@@ -18,6 +19,7 @@ public class NomeCognome {
         while ( stringa.length( ) < 3 ) {
             stringa += vocali.charAt(i);
             i++;
+            if(i!=0)i++;
         }
         return stringa;
     }
