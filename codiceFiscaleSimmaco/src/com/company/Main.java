@@ -13,7 +13,7 @@ public class Main {
         String s;
         Date d= null;
 
-
+        //zullo è stato qui
         System.out.println("inserisci nome");
         nome= tastiera.nextLine();
         nome= nome.replaceAll("\\s","");
